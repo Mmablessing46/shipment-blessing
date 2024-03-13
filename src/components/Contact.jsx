@@ -24,7 +24,7 @@ function Contact() {
                   <span className="me-3">
                     <i className="fa fa-phone"></i>
                   </span>
-                  +234 9137029216
+                  +234 8169062670
                 </a>
               </div>
               <div className="mt-3">
